@@ -64,7 +64,7 @@ public class BasicOperators {
 		int c5 = a5 & b5;
 		System.out.println(c5);
 								//Logical Operators
-		/*int a6 = 5;
+		int a6 = 5;
 		int b6 = 6;
 		//if((a6!=b6) (a6!=5)) // to satisfy both conditions, we use && in between. to satisfy any one we use || in between.
 		if((a6!=b6) && (a6!=5)) {
@@ -80,25 +80,16 @@ public class BasicOperators {
 								//Assignment Operators
 		int var = 10;
 		var += a5;
-		System.out.println("var value: "+var);*/
+		System.out.println("var value: "+var);
 								//Miscellaneous Operators
 		
 		//in dhatriFrndList[i]
 								//instanceOf operators
-		/*Object object = new Employee(); //Object is the parent class of any other class in java
-		if (object instanceOf VegetableService) {
-			VegetableService service = (VegetableService) object;
-		} else {
-			
-		*/}
-		int value = 7*5+3/2;
-		
-		
-		
-	
-		
-		
-	
 	}
-
 }
+		
+
+		
+		
+		
+		

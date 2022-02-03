@@ -1,4 +1,4 @@
-package com.withconstructors.emptaxCalculation;
+package com.fullstackfactory.studentmarkscalculation;
 
 import java.util.Scanner;
 

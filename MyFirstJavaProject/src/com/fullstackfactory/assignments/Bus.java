@@ -6,4 +6,4 @@ public class Bus {
 	static double INDIRA_TRAVELS_PRICE = 1200d;
 	static double JBT_TRAVELS_PRICE = 1000d;
 
-	}
+}
